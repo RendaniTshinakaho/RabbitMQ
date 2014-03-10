@@ -1,0 +1,7 @@
+D:\Projects\MessageDemo.App\PresentationLayer\bin\Debug\PresentationLayer.exe
+D:\Projects\MessageDemo.App\PresentationLayer\bin\Debug\PresentationLayer.pdb
+D:\Projects\MessageDemo.App\PresentationLayer\bin\Debug\RabbitMQ.Client.dll
+D:\Projects\MessageDemo.App\PresentationLayer\bin\Debug\RabbitMQ.Client.xml
+D:\Projects\MessageDemo.App\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+D:\Projects\MessageDemo.App\PresentationLayer\obj\Debug\PresentationLayer.exe
+D:\Projects\MessageDemo.App\PresentationLayer\obj\Debug\PresentationLayer.pdb
